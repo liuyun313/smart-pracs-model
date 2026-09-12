@@ -1,6 +1,3 @@
-# 
-deep learning model to predict 
-
 # smart-pracs-model: pathway gene mutation combination optimization
 
 This repository contains the code and data for predicting production-enhancing MCP enzyme (or variant) combinations from **binary combinations of 13 gene
